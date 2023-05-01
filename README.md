@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
     <p>
-      <a href="https://horion.download"><img src="https://cdn.discordapp.com/attachments/1072381976620830840/1102549516927914054/yetur.png" width="600" alt="YETUR"/></a>
+      <a href="https://horion.download"><img src="https://cdn.discordapp.com/attachments/1097498027922559037/1102550060849434716/87_20230501195957.png" width="600" alt="YETUR"/></a>
     </p>
   <br/>
   <p>
