@@ -9,10 +9,10 @@
   </p>
 </div>
 
-# YETUR
+### YETUR
 - Dedicated AntiCheat plugin for Bedrock Dedicated Server + Node.js (BDSX)
 
-## How can I use this plugin?
+### How can I use this plugin?
 - This plugin owns an authentication system.
 - Let me tell you how to prove that you are not a robot.
 - Download this plugin first.
