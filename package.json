@@ -1,0 +1,9 @@
+{
+  "name": "@Anticheat_YETUR",
+  "version": "1.0.1",
+  "description": "plugin that can detect toolbox, asabe, nitro, horion",
+  "main": "index.js",
+  "bdsxPlugin": true,
+  "author": "yetur5417",
+  "license": "None"
+}
