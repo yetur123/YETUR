@@ -1,8 +1,8 @@
 # YETUR
-- Dedicated AntiCheat Plugin for Bedrock Dedicated Server + Node.js (BDSX)
+- Dedicated AntiCheat plugin for Bedrock Dedicated Server + Node.js (BDSX)
 
 ## How can I use this plugin?
-- This plug-in owns an authentication system.
+- This plugin owns an authentication system.
 - Let me tell you how to prove that you are not a robot.
 - Download this plugin first.
 - Insert "bdsx-master - plugin" into the plugin folder
